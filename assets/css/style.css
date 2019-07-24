@@ -1,0 +1,20 @@
+.card-header {
+    background-image: linear-gradient(rgb(156, 15, 15), rgb(196, 4, 4), red)
+}
+
+.jumbotron {
+    background-image: linear-gradient(rgb(15, 2, 2), rgb(182, 171, 171), rgb(122, 86, 86));
+    text-align: center;
+    border: solid white 1px;
+}
+
+body {
+    background-image: url(../images/train-1728537_1280.jpg);
+    font-family: 'Dancing Script', cursive;
+}
+
+#train-table {
+    font-weight: normal;
+    border-radius: 4px;
+}
+
