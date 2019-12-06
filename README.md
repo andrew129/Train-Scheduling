@@ -4,7 +4,7 @@ This app is a train schedule simulator.
 
 ## Preview
 
-![Preview](https://github.com/andrew129/phocus-photography-revived/assets/images/Train.png?raw=true)
+![Preview](https://github.com/andrew129/train-scheduling/blob/master/assets/images/Train.png?raw=true)
 
 ## How to Use
 
