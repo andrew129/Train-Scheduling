@@ -15,7 +15,7 @@ This app is a train schedule simulator.
 - CSS
 - HTML
 
-## link to use
+## Link to Use
 
 check the above link to try out the app.  If you're a developer and want to improve on or mess around with the app yourself feel free to clone it.
 
