@@ -2,6 +2,10 @@
 
 This app is a train schedule simulator.
 
+## Preview
+
+![Preview](https://github.com/andrew129/phocus-photography-revived/blob/master/client/src/images/phocus.png?raw=true)
+
 ## How to Use
 
 1. Input the train name, destination, frequency, and the first train time
